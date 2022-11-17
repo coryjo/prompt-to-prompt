@@ -1,0 +1,10 @@
+.venv/
+.env
+.vscode/
+.idea/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.cache/
+.ipynb_checkpoints/
+.DS_Store
